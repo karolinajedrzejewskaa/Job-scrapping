@@ -35,6 +35,7 @@ The data used for this project were collected on:
 ## Deliverables
 This repository contains a variety of resources related to the project, including:
 
+* A video showcasing the dashboard and the application's functionality.
 * A PDF presentation on the project.
 * A PDF containing Power BI report.
 * Various Jupyter notebooks featuring dataset scraping, merging and cleaning processes.
