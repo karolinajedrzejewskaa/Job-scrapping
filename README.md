@@ -9,7 +9,7 @@
 
 
 ## Description
-This GitHub repository showcases a group project completed during our Data Analysis course at World Code School. The project was developed by Marion, Joanne, Véronique, Romain, and me, focusing on creating a platform with an AI-powered chatbot. The platform utilizes a custom-built database, created using information collected from various job offer websites through web scraping and APIs.
+This GitHub repository showcases a group project completed during our Data Analysis course at Wild Code School. The project was developed by Marion, Joanne, Véronique, Romain, and me, focusing on creating a platform with an AI-powered chatbot. The platform utilizes a custom-built database, created using information collected from various job offer websites through web scraping and APIs.
 
 
 ## Project Stages
